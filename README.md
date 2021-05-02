@@ -14,11 +14,7 @@
 1. Go to terminal. 
 2. Create a directory chatbot using mkdir chatbot
 3. cd chatbot
-4. clone the repository using the command ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+4. clone the repository using the command ``` https://github.com/Rajvardhan7/chatBOT.git```
 5. Install all the requirements using command pip install -r requirements.txt
 6. Run the commmand python bot.py
 YOUR BOT IS READY!!
